@@ -1,0 +1,1 @@
+start "" "EXEs\ConsoleApp1.exe"
